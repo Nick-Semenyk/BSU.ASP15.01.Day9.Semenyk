@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeClasses", "Binary
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeClassesConsole", "BinaryTreeClassesConsole\BinaryTreeClassesConsole.csproj", "{6FB0C603-DF31-4351-AF61-0FDCA9E640A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeClassesTests", "BinaryTreeClassesTests\BinaryTreeClassesTests.csproj", "{1160BEBA-30EA-4D44-B1A5-BFA71C84C3F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FB0C603-DF31-4351-AF61-0FDCA9E640A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FB0C603-DF31-4351-AF61-0FDCA9E640A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FB0C603-DF31-4351-AF61-0FDCA9E640A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1160BEBA-30EA-4D44-B1A5-BFA71C84C3F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1160BEBA-30EA-4D44-B1A5-BFA71C84C3F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1160BEBA-30EA-4D44-B1A5-BFA71C84C3F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1160BEBA-30EA-4D44-B1A5-BFA71C84C3F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -107,6 +107,7 @@ namespace BinaryTreeClasses
 
         public BinarySearchTree()
         {
+            //change to Func; if is not IComparable, then use GetHashCode
             Comparer = Comparer<T>.Default;
         }
 
